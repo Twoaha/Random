@@ -14,6 +14,7 @@
 ![IMG_20230118_124941](https://user-images.githubusercontent.com/108892202/213103546-7543de3e-719c-4ec6-a67f-df972f69cc6b.jpg)
 
 ```python
+For 64 Bit -
 
 rm -rf Random
 
@@ -22,6 +23,16 @@ git clone https://github.com/Twoaha/Random.git
 cd Random
 
 python Twoaha.py
+
+For 32 Bit 
+
+rm -rf Random
+
+git clone https://github.com/Twoaha/Random.git
+
+cd Random
+
+python Twoaha32.py
 
 
 
